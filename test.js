@@ -28,6 +28,8 @@ const result2 = multiply(3, 4);
 const result3 = divide(10, 0);
 const result4 = findLargestNumber([1, 7, 4, 9, 3]);
 
+const result5 - result1 + result2 - result3;
+
 console.log(result1);
 console.log(result2);
 console.log(result3);
