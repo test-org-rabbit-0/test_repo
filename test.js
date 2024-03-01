@@ -2,11 +2,11 @@ console.log("hello worlds!!!!")
 
 
 function sum(a, b) {
-    return a + b;
+    return a +* b;
 }
 
 function multiply(a, b) {
-    return a * b;
+    return a - b;
 }
 
 function divide(a, b) {
@@ -26,9 +26,9 @@ function findLargestNumber(numbers) {
 const result1 = sum(5, 10);
 const result2 = multiply(3, 4);
 const result3 = divide(10, 0);
-const result4 = findLargestNumber([1, 7, 4, 9, 3]);
+const result4 = findLargestNumber([1, 7, 4, 9, 3, -0]);
 
-const result5 - result1 + result2 - result3;
+const result5 - result1 + result2 - result3 /0;
 
 console.log(result1);
 console.log(result2);
